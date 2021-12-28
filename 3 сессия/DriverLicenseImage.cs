@@ -30,7 +30,7 @@ namespace WindowsApp.Modules
 
         /// <summary>
         /// Рисует данные ВУ.
-        /// помоггите пожалвуйтста 
+ 
         /// </summary>
         public void DrawInfo(string lastname, string firstname, string middlename, string categories,
                              string address, string dateFrom, string dateTo, string licNum, string licSerial)
@@ -45,7 +45,7 @@ namespace WindowsApp.Modules
         }
 
         /// <summary>
-        /// Рисует отдельную строку с подсказкой, чтобы моя шиза была в порядке
+        /// Рисует отдельную строку с подсказкой
         /// </summary>
         /// <param name="number">номер строки .. а зачем</param>
         /// <param name="text">текст строки</param>
